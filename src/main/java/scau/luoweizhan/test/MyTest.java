@@ -7,5 +7,6 @@ public class MyTest {
         System.out.println("4444");
         System.out.println("master test");
         System.out.println("hot-test");
+        System.out.println("push test");
     }
 }
